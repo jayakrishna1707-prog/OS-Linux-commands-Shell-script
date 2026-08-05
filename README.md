@@ -43,6 +43,9 @@ s.n. dasgupta
 cat < file1
 ## OUTPUT
 
+<img width="427" height="359" alt="image" src="https://github.com/user-attachments/assets/c01b59d4-0c28-4b09-8817-8000513191d5" />
+
+
 
 
 cat < file2
