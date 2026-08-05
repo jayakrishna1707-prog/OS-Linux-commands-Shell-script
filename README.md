@@ -68,7 +68,7 @@ comm file1 file2
 
 diff file1 file2
 ## OUTPUT
-
+<img width="679" height="280" alt="image" src="https://github.com/user-attachments/assets/3032a4b4-67c9-45c3-b54b-cab95efdb26a" />
 
 #Filters
 
@@ -92,16 +92,19 @@ cat > file22
 cut -c1-3 file11
 ## OUTPUT
 
+<img width="642" height="105" alt="image" src="https://github.com/user-attachments/assets/b2bf3a0d-f3b6-4ac0-8900-41779266016c" />
 
 
 
 cut -d "|" -f 1 file22
 ## OUTPUT
 
+<img width="647" height="125" alt="image" src="https://github.com/user-attachments/assets/3898f7f9-545b-4427-bf12-b70e4721d349" />
 
 
 cut -d "|" -f 2 file22
 ## OUTPUT
+<img width="648" height="127" alt="image" src="https://github.com/user-attachments/assets/f135499f-a046-42b3-9b15-528f1c400b65" />
 
 
 cat < newfile 
@@ -117,17 +120,20 @@ hello world
 grep Hello newfile 
 ## OUTPUT
 
+<img width="632" height="76" alt="image" src="https://github.com/user-attachments/assets/e2ba3f96-8bb6-4037-bfcb-e4c8ce027182" />
 
 
 grep hello newfile 
 ## OUTPUT
 
+<img width="632" height="84" alt="image" src="https://github.com/user-attachments/assets/4493ea26-3310-416a-8081-665e1184d0b6" />
 
 
 
 grep -v hello newfile 
 ## OUTPUT
 
+<img width="660" height="78" alt="image" src="https://github.com/user-attachments/assets/5bfc554e-f0eb-417a-bc0e-9adcd7504702" />
 
 
 cat newfile | grep -i "hello"
